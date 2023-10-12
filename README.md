@@ -8,10 +8,10 @@ Welcome to the **DeFinance** project! This open-source initiative is dedicated t
 
 Meet the team behind the project:
 
-- **Chinmay Patil:** [GitHub](https://github.com/chinmaypatil23) | [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/chinmay-patil-8005/))
-- **Sanket Naikwadi:** [GitHub](https://github.com/sanket23) | [LinkedIn](Your LinkedIn Profile)
-- **Aman Pandey:** [GitHub](https://github.com/amanpandey23) | [LinkedIn](Your LinkedIn Profile)
-- **Hrugved Parab:** [GitHub](https://github.com/hrugved23) | [LinkedIn](Your LinkedIn Profile)
+- **Chinmay Patil:** [GitHub](https://github.com/chinmaypatil23) | 
+- **Sanket Naikwadi:** [GitHub](https://github.com/SanketN81) | 
+- **Aman Pandey:** [GitHub](https://github.com/itsamanpandey) | 
+- **Hrugved Parab:** [GitHub](https://github.com/hrugved23) | 
 
 ## Project Overview
 
@@ -19,20 +19,7 @@ Meet the team behind the project:
 
 ## Features
 
-- [List the key features of your project.]
-- [Use bullet points to make it easy to read.]
-
-## Installation and Usage
-
-[Provide clear and concise instructions for how to install and use your project. Include code snippets if necessary.]
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to get involved, please see our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
+- 
 
 ## Contact
 
