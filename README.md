@@ -1,8 +1,6 @@
 # DeFinance
 
-# Decentralized Money Market (Project Name)
-
-Welcome to the **Decentralized Money Market** project! This open-source initiative is dedicated to revolutionizing the financial industry through blockchain technology and decentralized finance (DeFi) principles.
+Welcome to the **DeFinance** project! This open-source initiative is dedicated to revolutionizing the financial industry through blockchain technology and decentralized finance (DeFi) principles.
 
 ![Project Logo/Icon]
 
@@ -10,7 +8,7 @@ Welcome to the **Decentralized Money Market** project! This open-source initiati
 
 Meet the team behind the project:
 
-- **Chinmay Patil:** [GitHub](https://github.com/chinmaypatil23) | [LinkedIn](Your LinkedIn Profile)
+- **Chinmay Patil:** [GitHub](https://github.com/chinmaypatil23) | [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/chinmay-patil-8005/))
 - **Sanket Naikwadi:** [GitHub](https://github.com/sanket23) | [LinkedIn](Your LinkedIn Profile)
 - **Aman Pandey:** [GitHub](https://github.com/amanpandey23) | [LinkedIn](Your LinkedIn Profile)
 - **Hrugved Parab:** [GitHub](https://github.com/hrugved23) | [LinkedIn](Your LinkedIn Profile)
